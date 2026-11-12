@@ -1,0 +1,9 @@
+{
+ "request_file": "0000-chain-test.json",
+ "processed_at": "2026-11-12T13:04:26Z",
+ "request": {
+  "type": "noop"
+ },
+ "ok": false,
+ "error": "the UPSTREAM_TOKEN secret is not set on the fork"
+}
